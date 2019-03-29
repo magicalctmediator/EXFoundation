@@ -46,4 +46,6 @@ git commit -m "注释"
 ```
 ## Opeartion
 参考链接:
+[CocoaPods私有库创建与使用](http://www.cocoachina.com/cms/wap.php?action=article&id=24857)
+
 
