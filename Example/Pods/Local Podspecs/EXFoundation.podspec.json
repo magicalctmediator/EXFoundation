@@ -1,0 +1,22 @@
+{
+  "name": "EXFoundation",
+  "version": "0.1.0",
+  "summary": "A short description of EXFoundation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/dreamingclear@163.com/EXFoundation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "dreamingclear@163.com": "dreamingclear@163.com"
+  },
+  "source": {
+    "git": "https://github.com/dreamingclear@163.com/EXFoundation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EXFoundation/Classes/**/*"
+}

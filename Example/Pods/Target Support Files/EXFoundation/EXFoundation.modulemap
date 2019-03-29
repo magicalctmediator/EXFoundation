@@ -1,0 +1,6 @@
+framework module EXFoundation {
+  umbrella header "EXFoundation-umbrella.h"
+
+  export *
+  module * { export * }
+}
