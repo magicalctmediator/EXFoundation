@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'EXFoundation'
 ```
 
-## Author
-
-dreamingclear@163.com, dreamingclear@163.com
-
 ## License
 
 EXFoundation is available under the MIT license. See the LICENSE file for more info.
